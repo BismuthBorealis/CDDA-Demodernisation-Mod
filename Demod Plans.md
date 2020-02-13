@@ -6,10 +6,10 @@
      (Phones, Computers, Electronic Watches, Batteries, Etc)
 - Remove Modern Enemies
      (Turrets, Drones, Etc)
-- Dirt Roads
+- Dirt/Cobbled Roads
 - Remove Modern Constructions
 - Remove Unsalvageable Modern Buildings
 - Renovate Houses and Shops
 
 
-Clockworks and Flintlocks are the height of Technology.
+Clockworks and Flintlocks are the height of Technology!
