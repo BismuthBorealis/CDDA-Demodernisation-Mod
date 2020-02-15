@@ -1,6 +1,7 @@
-{
-  "type": "ITEM_BLACKLIST",
-  "items": [
+[
+  {
+    "type": "ITEM_BLACKLIST",
+    "items": [
       "l_mp_45",
       "mosin44",
       "l_sp_45",
@@ -206,13 +207,18 @@
     "hptc9",
     "walther_ppq_9mm",
     "hi_power_9mm",
+    "hi_power_40"
     "m17",
     "tec9",
     "sten",
     "rifle_9mm",
     "m9",
+    "M24",
+    "sks",
+    "shotgun_d",
     "hk_mp5_semi_pistol",
     "glock_19",
+    "9mmP",
     "calico",
     "rm614_lmg",
     "rm51_assault_rifle",
@@ -851,5 +857,6 @@
       "compgreatbow",
       "minispeargun",
       "300_casing"
-  ]
-}
+    ]
+  }
+]
