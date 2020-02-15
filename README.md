@@ -2,4 +2,6 @@
 
 A mod to remove any of that ungainly modern technology. Flintlocks are the height of science.
 
-This repo is probably going to be empty for a bit while I work on it on my own computer
+## Changelog
+
+0.0.1: Massive blacklist for guns, gunmods, ammo, mags, etc. items only, not recipes currently.
