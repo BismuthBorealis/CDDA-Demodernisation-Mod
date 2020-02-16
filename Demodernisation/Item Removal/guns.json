@@ -207,7 +207,7 @@
     "hptc9",
     "walther_ppq_9mm",
     "hi_power_9mm",
-    "hi_power_40"
+    "hi_power_40",
     "m17",
     "tec9",
     "sten",
@@ -264,6 +264,7 @@
     "mgl",
     "m79",
     "launcher_simple",
+    "ugl_buttstock",
     "smg_40",
     "rifle_40",
     "m1911a1_38super",
