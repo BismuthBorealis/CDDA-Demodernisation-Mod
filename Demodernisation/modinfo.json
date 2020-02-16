@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "demodernisation",
+    "name": "Demodernisation",
+    "authors": [ "BismuthBorealis" ],
+    "description": "Modernity? no thanks! Clockwork and Flintlocks are the height of technology!",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
