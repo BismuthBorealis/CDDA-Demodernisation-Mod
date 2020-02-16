@@ -5,8 +5,8 @@ Clockworks and Flintlocks are the height of Technology!
 
 ## Changelog
 
-0.0.1: Massive blacklist for guns, gunmods, ammo, mags, etc.
-0.0.2: Blacklists for modern melee weapons and CBMS
+- 0.0.1: Massive blacklist for guns, gunmods, ammo, mags, etc.
+- 0.0.2: Blacklists for modern melee weapons and CBMS
 
 # Demodernisation Roadmap
 
